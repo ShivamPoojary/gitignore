@@ -1,0 +1,8 @@
+effefe
+fvfdhvfdivfdiv
+<<<<<<< HEAD
+fdsdsddsf
+sdsxcsx
+=======
+dgdgdgcdgdfd
+>>>>>>> 6deacb5 (c3)
